@@ -1,4 +1,5 @@
-# Gloom "opensooq"
-    '''bash
-    $ Docker-compose up 
-    '''
+# Gloom "opensooq" 
+    
+  ```bash
+  $ Docker-compose up 
+  ```
